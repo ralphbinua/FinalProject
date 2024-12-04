@@ -113,7 +113,5 @@ public class ArithmeticExpressionTree {
 
         System.out.print("\n\nPostfix Notation: ");
         displayPostfix(treeRoot);
-
-        input.close();
     }
 }
